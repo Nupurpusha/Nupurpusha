@@ -49,6 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </a></a></p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=nupurpusha&theme=darkhub)
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&hide_progress=true&locale=en&layout=compact&theme=tokyonight" alt="Nupurpusha" /></p>
