@@ -51,6 +51,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=nupurpusha&theme=darkhub)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=nupurpusha&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7)
+
+
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&hide_progress=true&locale=en&layout=compact&theme=tokyonight" alt="Nupurpusha" /></p>
 
