@@ -149,9 +149,9 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="47%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Nupurpusha&theme=tokyonight&hide_border=true" />
+<img width="47%" src="https://streak-stats.demolab.com?user=Nupurpusha&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -159,9 +159,9 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nupurpusha&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nupurpusha&theme=tokyonight"/>
 
 </div>
 
@@ -215,6 +215,6 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-© 2025 Nupur Pusha
+© 2026 Nupur Pusha
 
 </div>
