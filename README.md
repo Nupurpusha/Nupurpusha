@@ -148,9 +148,9 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Nupurpusha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Nupurpusha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
@@ -158,11 +158,13 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nupurpusha&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nupurpusha&theme=tokyonight"/>
 
 </div>
+
+---
 
 ---
 
@@ -170,15 +172,17 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Commits"/>
+<img width="19%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=1&title=Commits"/>
 
-<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Followers"/>
+<img width="19%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=1&title=Followers"/>
 
-<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Repositories"/>
+<img width="19%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=1&title=Repositories"/>
 
-<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Experience"/>
+<img width="19%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=1&title=Experience"/>
 
 </div>
+
+---
 
 ---
 
