@@ -151,7 +151,7 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Nupurpusha&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nupurpusha&theme=tokyonight&hide_border=true"/>
 
 </div>
 
