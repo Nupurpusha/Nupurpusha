@@ -149,9 +149,7 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-## Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nupurpusha&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nupurpusha&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=Nupur%20Pusha's%20Contribution%20Graph"/>
 
 </div>
 
@@ -161,9 +159,9 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nupurpusha&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nupurpusha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
@@ -179,22 +177,11 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 ---
 
-# 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|----------|-------------|-------------|---------|
-| 🔐 Invisible Watermarking System | Advanced image watermarking with encoding & decoding capabilities | Python, OpenCV, NumPy, Deep Learning | ✅ Completed |
-| 💻 Multi-Code IDE | Real-time collaborative code editor with execution support | React, Node.js, Express.js, MongoDB | ✅ Completed |
-| 🎬 Movie Mood Matcher | Emotion-based movie recommendation platform | React, AI/ML, Webcam API | ✅ Completed |
-| 🍎 Food Spoilage Detection | ML-based food freshness detection using computer vision | Python, TensorFlow, CNN | 🚧 In Progress |
-
----
-
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
@@ -204,19 +191,19 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:nupurpusha03@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nupur-pusha-b0aba8312/">
+<a href="https://linkedin.com/in/nupur-pusha-b0aba8312">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/">
+<a href="https://www.kaggle.com/nupurpusha">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://instagram.com/nupurpusha321">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -230,6 +217,6 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-© 2026 Nupur Pusha | Last Updated: January 2026
+© 2025 Nupur Pusha
 
 </div>
