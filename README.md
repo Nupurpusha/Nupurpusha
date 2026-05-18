@@ -145,16 +145,6 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nupurpusha&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"/>
-
-</div>
-
----
-
 # 📈 Performance Metrics
 
 <div align="center">
