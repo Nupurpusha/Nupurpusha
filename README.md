@@ -149,7 +149,7 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nupurpusha&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=Nupur%20Pusha's%20Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nupurpusha&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"/>
 
 </div>
 
@@ -161,7 +161,7 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nupurpusha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Nupurpusha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
@@ -169,7 +169,7 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nupurpusha&theme=tokyonight"/>
 
@@ -181,7 +181,13 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=S,AAA,AA,A"/>
+
+<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits"/>
+
+<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Followers"/>
+
+<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Experience"/>
 
 </div>
 
