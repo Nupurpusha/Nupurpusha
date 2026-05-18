@@ -144,7 +144,6 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 </p>
 
 ---
-
 # 📈 Performance Metrics
 
 <div align="center">
@@ -161,7 +160,7 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nupurpusha&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nupurpusha&theme=tokyonight"/>
 
 </div>
 
@@ -171,13 +170,13 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=S,AAA,AA,A"/>
+<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Commits"/>
 
-<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits"/>
+<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Followers"/>
 
-<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Followers"/>
+<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Repositories"/>
 
-<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Experience"/>
+<img width="24%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=1&title=Experience"/>
 
 </div>
 
