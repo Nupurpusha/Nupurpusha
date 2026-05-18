@@ -171,13 +171,13 @@ Full Stack Developer with expertise in modern web technologies, AI/ML, and softw
 
 <div align="center">
 
-<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=S,AAA,AA,A"/>
+<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=S,AAA,AA,A"/>
 
-<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits"/>
+<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Commits"/>
 
-<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Followers"/>
+<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Followers"/>
 
-<img width="22%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Experience"/>
+<img width="40%" src="https://github-profile-trophy.vercel.app/?username=Nupurpusha&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&title=Experience"/>
 
 </div>
 
